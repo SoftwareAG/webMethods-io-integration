@@ -2,12 +2,12 @@ WEBMETHODS.io Integration
 ==============================================
 
 [WEBMETHODS.io Integration](https://www.softwareag.com/en_corporate/platform/integration-apis/api-integration-platform.html) is a powerful integration Platform-as-a-Service (iPaaS), providing a combination of capabilities offered by ESBs, data integration systems, API management tools and B2B gateways.
-It enables a wide variety of integration tasks to be accomplishes quickly and easily with a graphical/api interface. In many cases, use of webMethods.io allows tasks to be accomplished much faster than traditional efforts involving software engineering, more information can be found [here](https://www.softwareag.cloud/site/product/webmethodsio-integration.html#/).
+It enables a wide variety of integration tasks to be accomplished quickly and easily with a graphical/api interface. In many cases, use of webMethods.io allows you to be much faster than traditional efforts involving software engineering, more information can be found [here](https://www.softwareag.cloud/site/product/webmethodsio-integration.html#/).
 
 Get WEBMETHODS.io
 -----------------
 
-You can get a _30 day free trial_ cloud account provisioned in a few minutes. Visit **[WEBMETHODS.io](https://www.softwareag.cloud/site/product/webmethods-api.html)** and get your instance running in a region of your choice
+You can get a _30 day free trial_ cloud account provisioned in a few minutes. Visit **[WEBMETHODS.io](https://www.softwareag.cloud/site/product/webmethods-api.html)** and get your instance running in a region of your choice.
 
 Get started
 -----------
@@ -20,7 +20,7 @@ For this, you have a few places to start with...
 * [Tech community](http://techcommunity.softwareag.com/pwiki/-/wiki/product/name/integration-cloud)
 
 Examples
----------------------
+--------
 
 Collection of examples for beginner webMethods-io developers. It consists of common use cases and starting points for developers getting up to speed with webMethods.io. Each example will contain instructions on how to recreate itself from a blank project.
 
@@ -47,7 +47,7 @@ Collection of examples for beginner webMethods-io developers. It consists of com
 Custom Connectors
 -----------------
 
-You can create custom web connectors for [webMethods.io Integration](https://webmethods.io) using the Connector Builder. The Connector Builder app is a custom Node.js application that you build using a web application’s API. So, for example, if you have a private API or an API that is not in webMethods.io Integration yet, you can create custom webMethods.io Integration actions and triggers for those APIs. Once you have created and deployed these custom actions and triggers, you can use them like any other action on webMethods.io integration platform.
+You can create custom web connectors for [webMethods.io Integration](https://webmethods.io) using the Connector Builder. The Connector Builder app is a custom Node.js application that you build using a web application’s API. So, for example, if you have a private API or an API that is not in webMethods.io Integration yet, you can create custom webMethods.io Integration actions and triggers for those APIs. Once you have created and deployed these custom actions and triggers, you can use them like any other action/trigger on webMethods.io integration platform.
 
 Follow the link to find further details about the [Connector Builder](https://docs.webmethods.io/integration/developer_guide/connector_builder/#gsc.tab=0)
 
