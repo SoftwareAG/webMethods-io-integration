@@ -19,7 +19,7 @@ For this, you have a few places to start with...
 * [webMethods.io Integration Tutorials](https://www.youtube.com/playlist?list=PL3HwmrSYjxiOZ0Dcl3fSu0r7OEMCQTqTL)
 * [Tech community](http://techcommunity.softwareag.com/pwiki/-/wiki/product/name/integration-cloud)
 
-webmethodsio-examples
+Examples
 ---------------------
 
 Collection of examples for beginner webMethods-io developers. It consists of common use cases and starting points for developers getting up to speed with webMethods.io. Each example will contain instructions on how to recreate itself from a blank project.
@@ -66,6 +66,13 @@ Follow the link to find further details about the [Connector Builder](https://do
 * [webmethods.io-BambooHR-Community-Connector](https://github.com/SoftwareAG/webmethods.io-BambooHR-Community-Connector)
 * [webmethods.io-Capsule-CRM-Community-Connector](https://github.com/SoftwareAG/webmethods.io-Capsule-CRM-Community-Connector)
 * [webmethods.io-Qlik_Sense-Community-Connector](https://github.com/SoftwareAG/webmethods.io-Qlik_Sense-Community-Connector)
+
+Hybrid Integration
+------------------
+
+Here you will find a how-to do hybrid integration using [webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) and [webMethods.io](https://www.softwareag.com/en_corporate/platform/integration-apis/api-integration-platform.html) capabilities.
+
+* [webmethodsio-hybridintegration](https://github.com/SoftwareAG/webmethodsio-hybridintegration)
 
 ______________________
 These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
