@@ -16,7 +16,7 @@ Hope everything went well in product provisioning. Lets now get started to explo
 For this, you have a few places to start with...
 
 * [Developer Center](https://www.softwareag.cloud/site/dev-center/webmethods-io-integration.html#/) 
-* [webMethods.io Integration Tutorials](https://www.youtube.com/playlist?list=PL3HwmrSYjxiOZ0Dcl3fSu0r7OEMCQTqTL)
+* [webMethods.io Integration Tutorials](https://www.youtube.com/playlist?list=PL3HwmrSYjxiPlg7lz3TBuNuSrj76xFbLS)
 * [Tech community](http://techcommunity.softwareag.com/pwiki/-/wiki/product/name/integration-cloud)
 
 Examples
