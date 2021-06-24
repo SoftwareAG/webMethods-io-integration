@@ -1,10 +1,10 @@
-WEBMETHODS.io Integration
+webMethods.io Integration
 ==============================================
 
 [WEBMETHODS.io Integration](https://www.softwareag.com/en_corporate/platform/integration-apis/api-integration-platform.html) is a powerful integration Platform-as-a-Service (iPaaS), providing a combination of capabilities offered by ESBs, data integration systems, API management tools and B2B gateways.
 It enables a wide variety of integration tasks to be accomplished quickly and easily with a graphical/api interface. In many cases, use of webMethods.io allows you to be much faster than traditional efforts involving software engineering, more information can be found [here](https://www.softwareag.cloud/site/product/webmethodsio-integration.html#/).
 
-Get WEBMETHODS.io
+Get webMethods.io
 -----------------
 
 You can get a _30 day free trial_ cloud account provisioned in a few minutes. Visit **[WEBMETHODS.io](https://www.softwareag.cloud/site/product/webmethods-api.html)** and get your instance running in a region of your choice.
