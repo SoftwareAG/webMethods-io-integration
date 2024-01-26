@@ -17,8 +17,8 @@ For this, you have a few places to start with...
 
 * [Developer Center](https://www.softwareag.cloud/site/dev-center/webmethods-io-integration.html#/) 
 * [webMethods.io Integration Tutorials](https://www.youtube.com/playlist?list=PL3HwmrSYjxiPlg7lz3TBuNuSrj76xFbLS)
-* [Tech community](http://techcommunity.softwareag.com/pwiki/-/wiki/product/name/integration-cloud)
-* [Ask questions and collaborate with webMethods.io experts](https://tech.forums.softwareag.com/tag/webmethods-io-integration)
+* [webMethods.io Integration on Tech Community](https://tech.forums.softwareag.com/tag/webmethods-io-integration)
+* [Ask questions and collaborate with webMethods.io experts](https://tech.forums.softwareag.com/tags/c/forum/1/webMethods-io-Integration)
 
 Examples
 --------
